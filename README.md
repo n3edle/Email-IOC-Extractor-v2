@@ -44,5 +44,5 @@ Email legitimacy auto-validation:
 Homoglyph Attack Risk Level       : LOW
 Sender Origin       : External!!!
 Pattern Analysis       : Detected 1 keyword(s)   Risk Level: MEDIUM   Subject: 'FW: Due Invoice Payment - protonmail.com - Wire Transfer Document'
-URLs Risk Level       :  UNKNOWN
+URLs Risk Level       :  MEDIUM
 ```

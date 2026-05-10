@@ -12,7 +12,7 @@ Link to the original tool: https://github.com/MalwareCube/Email-IOC-Extractor/tr
 
 Example:
 ```
-python3 eioc2.py file.eml 
+$ python3 eioc2.py file.eml 
 Extracted IP Addresses:
 ====================================
 213[.]227[.]154[.]65 - Lelystad, Flevoland, NL, ISP: AS60781 LeaseWeb Netherlands B.V.
